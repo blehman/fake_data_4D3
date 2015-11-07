@@ -27,8 +27,9 @@ What is possible?
 
 Analysis:  
 1. Multinomial Logistic Regression
+2. t-SNE
 
-Visualization:
+Visualization:  
 1. % Presence of each feature per each label.
 2. Difference from the mean count of each item per each cluster.
 
